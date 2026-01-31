@@ -1,20 +1,20 @@
-# 🌏 Namzoed Open Source
+# Namzoed Open Source
 
 **Namzoed** is a Bhutan-based technology initiative building open, developer-friendly tools for digital services in Bhutan 🇧🇹
 
 This organization hosts **free and open-source projects** that provide:
 
-- 📡 Bhutan-specific API integrations (SMS, payments, GPS, utilities, etc.)
-- 📱 Mobile & web starter kits
-- 🧪 Example implementations
-- 📚 Reference documentation
-- 🛠 Developer tools for local startups, institutions, and students
+-  Bhutan-specific API integrations (SMS, payments, GPS, utilities, etc.)
+-  Mobile & web starter kits
+-  Example implementations
+-  Reference documentation
+-  Developer tools for local startups, institutions, and students
 
 Our goal is to **lower the barrier to building digital products in Bhutan**.
 
 ---
 
-## 🚀 What You’ll Find Here
+##  What You’ll Find Here
 
 | Category | Description |
 |----------|-------------|
@@ -26,17 +26,7 @@ Our goal is to **lower the barrier to building digital products in Bhutan**.
 
 ---
 
-## 📦 Example Projects (Coming & Current)
-
-- `bhutan-sms-api` – SMS gateway wrapper & examples  
-- `namzoed-superapp-core` – Superapp backend starter  
-- `rta-studio-app` – Textile design mobile viewer  
-- `gps-tracker-demo` – Traccar + device integrations  
-- `bhutan-utils` – Dzongkha tools, validation, IDs, formatting  
-
----
-
-## 🧑‍💻 Who Is This For?
+##  Who Is This For?
 
 - Developers building in Bhutan  
 - Startups & system integrators  
@@ -47,7 +37,7 @@ If you’re building anything that needs **local infrastructure integration**, t
 
 ---
 
-## 📖 Documentation & Guides
+##  Documentation & Guides
 
 Each repository includes:
 
@@ -65,7 +55,7 @@ We also provide:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community.
 
@@ -82,7 +72,7 @@ We follow:
 
 ---
 
-## 📜 License
+##  License
 
 Unless stated otherwise, all projects are released under:
 
@@ -90,7 +80,7 @@ Unless stated otherwise, all projects are released under:
 
 ---
 
-## 🌱 Vision
+##  Vision
 
 Namzoed believes Bhutan deserves:
 - Open digital infrastructure  
@@ -98,14 +88,14 @@ Namzoed believes Bhutan deserves:
 - Transparent, secure systems  
 - Community-driven innovation  
 
-Let’s build together 🇧🇹
+Let’s build together 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 For partnerships, integration help, or enterprise support:
 
-📧 **contact@namzoed.com**  
-🌐 **https://namzoed.com**  
-🐙 **https://github.com/namzoed**
+ **namzoed@gmail.com**  
+ **https://namzoed.com**  
+ **https://github.com/namzoed](https://github.com/NamZoed-Organization**
