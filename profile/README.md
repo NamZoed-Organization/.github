@@ -98,4 +98,4 @@ For partnerships, integration help, or enterprise support:
 
  **namzoed@gmail.com**  
  **https://namzoed.com**  
- **https://github.com/namzoed](https://github.com/NamZoed-Organization**
+ **https://github.com/NamZoed-Organization**
